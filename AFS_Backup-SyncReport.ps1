@@ -15,6 +15,7 @@
 .NOTES
   Version:        2.0
   Author:         Narasimha R Duggu/ Narduggu@in.ib.com
+  modifed:  Rajashekar Indoori
   Creation Date:  20210129
 .EXAMPLE
  powershell.exe -ExecutionPolicy ByPass -File .\AzDailyBackupJobs.ps1'
